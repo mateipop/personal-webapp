@@ -6,8 +6,7 @@ import chefai from "../../assets/images/ClaudeAI.png";
 import ocrnokia from "../../assets/images/OCR NOKIA.png";
 import adventuregame from "../../assets/images/adventuregame.png";
 import storybridge from "../../assets/images/storybridge.jpg";
-import licentapdf from "../../assets/images/SensorView.pdf";
-
+import makecom from "../../assets/images/Screenshot 2026-01-02 at 23.18.22.png";
 const DEFAULT_PARTICLE_COUNT = 12;
 const DEFAULT_SPOTLIGHT_RADIUS = 300;
 const DEFAULT_GLOW_COLOR = "132, 0, 255";
@@ -20,7 +19,7 @@ const cardData = [
     description: "•GPT-4o •n8n •DALL-E 3 •Supabase",
     label: "GenAI Product",
     image: storybridge,
-    link: "https://github.com/mateipop/Story-Bridge", // Replace with your actual link
+    link: "https://github.com/mateipop/Story-Bridge",
   },
   {
     color: "#060010",
@@ -36,23 +35,24 @@ const cardData = [
     description: "•C# •.NET •IoT •Mercedes Homologation",
     label: "Continental Automotive",
     image: licenta,
-    link: "/SensorView.pdf", // Replace with your actual link
+    link: "/SensorView.pdf",
   },
   {
+    //trebe schimbat aici cardu
     color: "#060010",
     title: "ScanSecure OCR",
     description: "•Python •OCR •React •Data Extraction",
     label: "Computer Vision",
     image: ocrnokia,
-    link: "https://github.com/mateipop/ScanSecure", // Replace with your actual link
+    link: "https://github.com/mateipop/ScanSecure",
   },
   {
     color: "#060010",
     title: "AI Social Automation",
     description: "•NLP •Python •Automated Engagement",
     label: "AI Agents",
-    image: blockchain,
-    link: "https://github.com/mateipop/AI-Social-Bot", // Replace with your actual link
+    image: makecom,
+    link: "https://github.com/mateipop/Social-Media-Automation-posting-with-Make.com", // Replace with your actual link
   },
   {
     color: "#060010",

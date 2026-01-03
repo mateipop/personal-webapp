@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import heroImg from "../../assets/images/git-profile-image.png";
-import CV from "../../assets/images/Mega_CV.pdf";
+import CV from "../../assets/images/CV_p.pdf";
 import StarBorder from "../animations/Star_Border.jsx";
 import DecryptedText from "../animations/Decrypted_Text";
 import Projects from "./Projects";
