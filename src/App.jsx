@@ -10,7 +10,6 @@ export default function App() {
 
   return (
     <div className="min-h-screen relative overflow-hidden bg-[#060010] text-white">
-      {/* Hero section with laser + bio text */}
       <ScrollableSection />
     </div>
   );
