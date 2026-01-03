@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import profileImg from "../../assets/images/abstract.jpg";
+import profileImg from "../../assets/images/profile_picture.png";
 import LogoLoop from "../animations/Logo_Loop.jsx";
 import GlareHover from "../animations/Glare_Hover.jsx";
 import AnimatedContent from "../animations/Animated_Content.jsx";
